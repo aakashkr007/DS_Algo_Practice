@@ -1,0 +1,3 @@
+Initialize vector: https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/
+
+Pass vector as reference: https://www.geeksforgeeks.org/passing-vector-function-cpp/
