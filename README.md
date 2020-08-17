@@ -1,1 +1,1 @@
-# DS_Algo_Practice
+Goal: To gain confidence in fundamentals of data structures and important algorithms
